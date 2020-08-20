@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Jackiesy/vue-siyuanUI/issues"
   },
-  "homepage": "https://github.com/Jackiesy/vue-siyuanUI#readme"
+  "homepage": "https://github.com/Jackiesy/vue-siyuanUI#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
